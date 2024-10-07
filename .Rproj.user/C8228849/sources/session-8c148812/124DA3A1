@@ -1,0 +1,26 @@
+{
+    "id": "124DA3A1",
+    "path": "~/GitHub/tv_hours_analysis/main.R",
+    "project_path": "main.R",
+    "type": "r_source",
+    "hash": "0",
+    "contents": "",
+    "dirty": true,
+    "created": 1728258436775.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "7,0",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1728258436,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1728259289556,
+    "read_only": false,
+    "read_only_alternatives": []
+}
